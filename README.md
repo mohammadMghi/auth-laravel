@@ -1,2 +1,3 @@
 # register-login
-a simple register login project
+a simple register login project  , you can add this auth to your project and extend your code !
+i hope enjoy it ...
